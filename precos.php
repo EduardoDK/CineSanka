@@ -19,10 +19,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>2D : R$20,00</td>
+      <td class="gre">2D : R$20,00</td>
     </tr>
     <tr>
-      <td>3D : R$20,00</td>
+      <td class="gre">3D : R$20,00</td>
     </tr>
     <tr>
       
@@ -37,10 +37,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>2D : R$10,00</td>
+      <td class="gre">2D : R$10,00</td>
     </tr>
     <tr>
-      <td>3D : R$10,00</td>
+      <td class="gre">3D : R$10,00</td>
     </tr>
     <tr>
     </tr>
@@ -54,10 +54,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>2D : R$10,00 (Preço Unico)</td>
+      <td class="gre">2D : R$10,00 (Preço Unico)</td>
     </tr>
     <tr>
-      <td>3D : R$10,00 (Preço Unico)</td>
+      <td class="gre">3D : R$10,00 (Preço Unico)</td>
     </tr>
     <tr>
     </tr>
@@ -71,7 +71,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Dinheiro e Cartão de Débito / Crédito</td>
+      <td class="text-dark">Dinheiro e Cartão de Débito / Crédito</td>
     </tr>
     
   </tbody>
