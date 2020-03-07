@@ -71,7 +71,7 @@
   </thead>
   <tbody>
     <tr>
-      <td class="text-dark">Dinheiro e Cartão de Débito / Crédito</td>
+      <td class=" -dark">Dinheiro e Cartão de Débito / Crédito</td>
     </tr>
     
   </tbody>

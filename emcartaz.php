@@ -17,6 +17,11 @@
 <img src="img/cartaz2.jpg" class=" p-2 w-25 rounded float-right" alt="...">
 <img src="img/cartaz3.jpg" class=" p-2 w-25 rounded float-left" alt="">
 <img src="img/cartaz4.jpg" class=" p-2 w-25 rounded float-right" alt="...">
+<img src="img/cartaz5.jpg" class=" p-2 w-25 rounded float-left" alt="...">
+<img src="img/cartaz6.jpg" class=" p-2 w-25 rounded float-right" alt="...">
+
+
+
 </main>
 
 
