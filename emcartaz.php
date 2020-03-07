@@ -11,8 +11,8 @@
 <body>
 
 <?php require("nav.php")?>
-<main> 
-<h1 class=" sala" >Proximos Filmes</h1>
+<main > 
+<h1 class=" m-3 sala" >Proximos Filmes</h1>
 <img src="img/cartaz1.jpg" class=" p-2 w-25 rounded float-left" alt="...">
 <img src="img/cartaz2.jpg" class=" p-2 w-25 rounded float-right" alt="...">
 <img src="img/cartaz3.jpg" class=" p-2 w-25 rounded float-left" alt="">
