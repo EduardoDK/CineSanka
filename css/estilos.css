@@ -1,11 +1,50 @@
 @charset "UTF-8";
 
+
+
+
+
+
 .bg1{
     background-color: #e9e9e9;
+   
 }
 .bg{
     background-color: #9b0000;
 }
 h1,h2,h3,p{
     font-family: arial;
+   
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+.red{
+    color:red;
+    font-weight: bold;
+}
+.sala{
+    color:#9b0000;
+    font-weight: bold ;
+    font-family: arial;
+
+}
+.gre{
+    color:green;
+    font-weight: bold ;
+
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding: 7px;
+}
+b{
+    padding: 2px;
+}
+th{
+    color:white;
 }
