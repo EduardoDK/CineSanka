@@ -10,7 +10,7 @@
 <body>
 <?php require("nav.php")?>
 
-<div class="container bg1">
+<div class="container bg1 p-4">
 <table class=" p-3 table ">
   <thead class="bg-light">
     <tr>
